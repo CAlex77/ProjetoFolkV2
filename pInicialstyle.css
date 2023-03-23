@@ -1,0 +1,14 @@
+.Title {
+    color: white;
+    background-color: rgb(9, 2, 68); 
+    display: inline-block;
+    padding: 5px;
+    border-radius: 10px;
+  }
+  .Title:hover {
+    background-color: blue;
+  }
+  #Donation {
+    display: block;
+    background-color: white;
+  }
